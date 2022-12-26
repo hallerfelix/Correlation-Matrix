@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
 #impot libraries
 import pandas as pd
 import seaborn as sns
