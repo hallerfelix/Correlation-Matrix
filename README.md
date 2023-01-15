@@ -4,5 +4,4 @@ different data preprocessing. The microbiome data ist centered log-transformed. 
 the meta- and microbiome data ist centered and scaled.
 A Pearson correlation is performed, where only significant Correlations with depending R² are shown.
 
-![image](https://user-images.githubusercontent.com/80318329/209536434-05e411ca-8f09-46de-b1bd-593a958dc8e1.png)
-
+![Correlation Matrix](https://user-images.githubusercontent.com/80318329/212550033-bdc77384-325c-447e-ac1e-f2e1aa7b20e2.png)
